@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Humaitrix Hello World",
+  "name_for_model": "humaitrix-hello",
+  "description_for_human": "Simple python chatGPT call.",
+  "description_for_model": "Simple python chatGPT call",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:3333/openapi.yaml"
+  },
+  "logo_url": "http://localhost:3333/logo.png",
+  "contact_email": "support@humaitrix.de",
+  "legal_info_url": "http://www.humaitrix.de/legal"
+}
